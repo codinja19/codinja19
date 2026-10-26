@@ -44,8 +44,8 @@ An ESP32-based prototype combining motion sensing, GPS, and a web interface for 
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile URL
-- Portfolio: Add your portfolio URL when available
+- LinkedIn: www.linkedin.com/in/garv-goel-b89c257v
+- Gmail: garvgoel2005@gmail.com
 
 ---
 
